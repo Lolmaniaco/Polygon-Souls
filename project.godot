@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Polygon Souls"
-config/tags=PackedStringArray("github", "learn", "solo")
+config/tags=PackedStringArray("github", "solo")
 run/main_scene="res://rooms/proceduralGeneration.tscn"
 config/features=PackedStringArray("4.7")
 config/icon="uid://du8n2dt44qspk"
